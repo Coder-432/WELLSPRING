@@ -15,6 +15,22 @@ The architecture of WELLSPRING is designed around a fully offline, decoupled loc
 
 ---
 
+## ✨ Application Pages & Views
+
+1. Home Dashboard (/): The main landing hub featuring the interactive mood check-in, real-time local reflection card, and recent log history.
+
+2. Journaling & Entry View (/journal): A distraction-free, dedicated page for drafting long-form reflections and logging deep thoughts offline.
+
+3. History & Reflection Vault (/history): A complete archive page displaying all past journal entries, recorded moods, and historical Gemma AI grounding responses.
+
+4. Health & Grounding Guide (/guide): An offline wellness hub providing local AI-assisted grounding exercises, digital detox strategies, and screen-break routines.
+
+5. Privacy & Air-Gap Audit (/privacy): An internal diagnostic dashboard showing local connection statuses, Ollama service health, and verification of zero cloud network calls.
+
+6. Settings & Local Data Control (/settings): A management view allowing users to clear local database logs, manage database storage, and select local LLM model parameters.
+
+---
+
 ## ✨ Key Features
 
 * **100% Offline & Air-Gapped:** All data processing and AI inference happen locally on your device.
