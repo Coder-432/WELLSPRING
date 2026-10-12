@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Wellspring Local Database & SQLite Artifacts
+wellspring.db
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Local Logs & Runtime Data
+logs/
+*.log
