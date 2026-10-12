@@ -85,4 +85,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-> *"Disconnect from the noise, reconnect with yourself—touch grass, not glass."*
+ *"Disconnect from the noise, reconnect with yourself—touch grass, not glass."*
