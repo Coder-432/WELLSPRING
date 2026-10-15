@@ -1,1 +1,6 @@
+Backend: Python, FastAPI, Uvicorn
+AI Model: Google Gemma (via Ollama)
+AI Pair Programming: GitHub Copilot
+Database: SQLite
+Frontend: Jinja2 Templates, Tailwind CSS (via CDN)
 
